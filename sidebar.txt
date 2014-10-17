@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[irx:home|Door43 (irx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-irx|d43-irx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-irx/archive/master.zip|d43-irx.zip]]
+
+**Recent Changes**
+{{changes>ns = irx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/irx|Ethnologue data]]
+
